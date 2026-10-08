@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "CodeLab 2.0 · 学习宇宙",
+  "short_name": "CodeLab",
+  "description": "和 Labby 一起探索 SQL、Python 学习宇宙",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080f20",
+  "theme_color": "#080f20",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./CodeLab-robot-mascot-NEW-2026.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
